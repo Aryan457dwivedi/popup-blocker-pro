@@ -1,0 +1,27 @@
+body{
+  width:220px;
+  background:#0f172a;
+  color:white;
+  text-align:center;
+  font-family:Arial;
+  padding:15px;
+}
+
+h2{color:#38bdf8}
+
+.count{
+  margin:10px 0;
+  font-size:16px;
+}
+
+button{
+  width:100%;
+  padding:8px;
+  border:none;
+  border-radius:6px;
+  font-weight:bold;
+  cursor:pointer;
+}
+
+.off{background:#ef4444}
+.on{background:#22c55e}

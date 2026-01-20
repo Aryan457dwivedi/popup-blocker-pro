@@ -1,0 +1,37 @@
+{
+  "manifest_version": 3,
+  "name": "AdBlocker Pro",
+  "version": "3.0",
+  "description": "High performance MV3 ad blocker using declarative rules",
+
+  "permissions": [
+    "storage",
+    "tabs",
+    "declarativeNetRequest",
+    "declarativeNetRequestFeedback"
+  ],
+
+  "host_permissions": ["<all_urls>"],
+
+  "background": {
+    "service_worker": "src/background.js"
+  },
+
+  "action": {
+    "default_popup": "src/popup.html"
+  },
+
+  "declarative_net_request": {
+    "rule_resources": [
+      {
+        "id": "ruleset",
+        "enabled": true,
+        "path": "src/rules.json"
+      }
+    ]
+  },
+
+  "icons": {
+    "128": "assets/icon.png"
+  }
+}
