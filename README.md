@@ -1,46 +1,23 @@
-\# Popup Blocker Pro
+# Popup Blocker Pro
 
+A Chrome ad blocker built using Manifest V3.
 
+## Features
+- Network-level ad blocking
+- Live blocked request counter
+- Enable / disable toggle
+- Badge counter on extension icon
+- Lightweight and fast
+- Uses Manifest V3 APIs
 
-A high-performance Chrome Ad Blocker built using Manifest V3.
+## Tech Stack
+- JavaScript
+- Chrome Extensions API
+- Manifest V3
 
+## Installation
 
-
-\## Features
-
-\- Network-level ad blocking
-
-\- Live blocked counter
-
-\- Toggle ON/OFF
-
-\- Badge indicator
-
-\- Lightweight \& fast
-
-\- MV3 future-proof
-
-
-
-\## Tech Stack
-
-\- JavaScript
-
-\- Chrome Extensions API
-
-\- Manifest V3
-
-
-
-\## Installation
-
-
-
-1\. Clone repo
+1. Clone the repository
 
 ```bash
-
-git clone https://github.com/YOUR\_USERNAME/popup-blocker-pro.git
-
-
-
+git clone https://github.com/Aryan457dwivedi/popup-blocker-pro.git
