@@ -40,7 +40,7 @@ git clone https://github.com/Aryan457dwivedi/popup-blocker-pro.git
 
   Step 5: Your extension will now appear in the list 
 
-  Step 6: Click the puzzle icon, Pin Popup Blocker Pro, and click the extension icon to open the popup.
+  Step 6: Click the Extension icon, Pin Popup Blocker Pro, and click the extension icon to open the popup.
 
 
 ## TEST THE EXTENSION
