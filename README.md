@@ -52,9 +52,9 @@ git clone https://github.com/Aryan457dwivedi/popup-blocker-pro.git
 
 ## Toggle Check
 
-  Turn OFF → ads appear.
+  Turn OFF(Disable) → ads appear.
   
-  Turn ON → ads blocked again.
+  Turn ON(Enable) → ads blocked again.
 
 
 ## AFTER CODE CHANGES
